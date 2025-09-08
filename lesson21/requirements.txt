@@ -1,2 +1,5 @@
-Flask==3.0.2
-python-dotenv==1.0.1
+Flask
+python-dotenv
+google-genai
+markdown2
+gunicorn
